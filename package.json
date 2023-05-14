@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@akarui/aoi.music": "github:akaruidevelopment/music#main",
+    "aoi.js": "^5.5.5",
+    "aoi.mongo": "^0.2.0",
+    "ejs": "^3.1.8",
+    "ervel.db": "^1.2.5",
+    "express": "^4.18.2",
+    "ffmpeg-static": "^4.4.1",
+    "mongoose": "^5.13.13",
+    "nukleon": "^0.0.2",
+    "opusscript": "^0.0.8",
+    "os": "^0.1.2",
+    "fs": "^0.0.1-security"
+  }
+}
